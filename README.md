@@ -1,4 +1,4 @@
-# pkluster
+# pcluster
 High Performance Personal Computing Cluster
 
 ## Overall set-up
